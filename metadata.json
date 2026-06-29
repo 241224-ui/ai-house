@@ -1,0 +1,6 @@
+{
+  "name": "AI House Redesign Studio",
+  "description": "Transform your traditional house into a cinematic modern architectural masterpiece using Gemini AI. Features interactive before/after sliders, procedural 3D viewer, and custom control adjustments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
